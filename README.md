@@ -1,2 +1,2 @@
 # beta
-beat test for Ray
+beta test for Ray
